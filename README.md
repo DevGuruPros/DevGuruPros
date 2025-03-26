@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi  👋
 
-<!--
-**DevGuruPros/DevGuruPros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
-Here are some ideas to get you started:
+<h3>🛠 Tech Stack</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 &nbsp; Python | Dart | Java | C++  
+- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
+- 🛢 &nbsp; MySQL | Firebase | Xampp
+- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
+- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
+
+<br>
